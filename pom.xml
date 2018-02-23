@@ -139,7 +139,7 @@
 	
 	</dependencies>
 	<build>
-		<finalName>pages</finalName>
+		<finalName>shopeasy</finalName>
 	</build>
 	<artifactId>registration</artifactId>
 </project>
